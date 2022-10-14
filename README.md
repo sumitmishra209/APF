@@ -1,11 +1,22 @@
 # Sensing accident-prone features in urban scenes for proactive driving and accident prevention (supplementry material)
 
 
+<hr />
+Performance on Proposed Infrastructure Dataset (Stationary Cameras)
 
-### TL;DR : 1 : Dataset (Real and Synthetic) for Object Detection and Tracking in Wild using Street Cameras.
-### TL;DR : 2 : Methodology for Domain Adaptation to ensure robust performance in adverse weather conditions.
+<a href="/pdfs/about_data.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 <hr />
 Performance on Proposed Infrastructure Dataset (Stationary Cameras)
 
-<a href="/pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="/pdfs/Squeezenet-ABP_sample_visualization.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
+<hr />
+Performance on Proposed Infrastructure Dataset (Stationary Cameras)
+
+<a href="/pdfs/Squeezenet_sample_visualization.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
+<hr />
+Performance on Proposed Infrastructure Dataset (Stationary Cameras)
+
+<a href="/pdfs/Addition_metrics.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
