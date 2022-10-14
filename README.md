@@ -2,15 +2,15 @@
 
 
 <hr />
-Details about the selected images qualitative analysis are visualized in the file named “about_data”.
+Details about the selected images qualitative analysis are visualized in the file named “about_data.pdf”.
 
 
 <hr />
-Visualization of accident-prone features of Squeezenet with GradCAM++ is in the file named “Squeezenet_sample_visualization”.
+Visualization of accident-prone features of Squeezenet with GradCAM++ is in the file named “Squeezenet_sample_visualization.pdf”.
 
 
 <hr />
-Visualization of accident-prone features of Squeezenet-ABM with GradCAM is in file named “Squeezenet-ABM_sample_visualization”.
+Visualization of accident-prone features of Squeezenet-ABM with GradCAM is in file named “Squeezenet-ABM_sample_visualization.pdf”.
 
 
 <hr />
