@@ -2,21 +2,16 @@
 
 
 <hr />
-Performance on Proposed Infrastructure Dataset (Stationary Cameras)
+Details about the selected images qualitative analysis are visualized in the file named “about_data”.
 
-<a href="pdfs/about_data.pdf" class="image fit"></a>
-
-<hr />
-Performance on Proposed Infrastructure Dataset (Stationary Cameras)
-
-<a href="pdfs/Squeezenet-ABP_sample_visualization.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 <hr />
-Performance on Proposed Infrastructure Dataset (Stationary Cameras)
+Visualization of accident-prone features of Squeezenet with GradCAM++ is in the file named “Squeezenet_sample_visualization”.
 
-<a href="pdfs/Squeezenet_sample_visualization.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 <hr />
-Performance on Proposed Infrastructure Dataset (Stationary Cameras)
+Visualization of accident-prone features of Squeezenet-ABM with GradCAM is in file named “Squeezenet-ABM_sample_visualization”.
 
-<a href="pdfs/Addition_metrics.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
+<hr />
+The image illustrations for different metrics are shown for a given sample, please check file “Addition_metrics.pdf”.
