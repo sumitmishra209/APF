@@ -15,3 +15,6 @@ Visualization of accident-prone features of Squeezenet-ABM with GradCAM is in fi
 
 <hr />
 The image illustrations for different metrics are shown for a given sample, please check file “Addition_metrics.pdf”.
+
+
+<hr />
