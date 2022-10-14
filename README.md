@@ -4,7 +4,7 @@
 <hr />
 Performance on Proposed Infrastructure Dataset (Stationary Cameras)
 
-<a href="pdfs/about_data.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="pdfs/about_data.pdf" class="image fit"></a>
 
 <hr />
 Performance on Proposed Infrastructure Dataset (Stationary Cameras)
